@@ -1,9 +1,0 @@
-"appid","screenname","totalgesture","totaluser","totalvisit","totalcrashed","totalsession","totalengagementtime","createdon","totalexit"
-"5b977587fca8910023119de2","activitycrash",0,0,1,0,1,"0.679","2018-09-17 03:15:02.742",0
-"5b977587fca8910023119de2","activitycustomevents",0,0,1,0,1,"0.946","2018-09-17 03:15:02.742",0
-"5b977587fca8910023119de2","activityocclude",0,0,1,0,1,"0.658","2018-09-17 03:15:02.742",0
-"5b977587fca8910023119de2","ActivityOcclude",0,1,2,0,1,"2.732","2018-09-11 08:01:52.488",0
-"5b977587fca8910023119de2","ActivitySessionProperties",0,1,1,0,1,"0.802","2018-09-11 08:01:52.49",0
-"5b977587fca8910023119de2","ActivityUserDetails",0,1,1,0,1,"1.25","2018-09-11 08:01:52.484",0
-"5b977587fca8910023119de2","mainactivity",15,0,6,0,3,"40.08","2018-09-17 03:15:16.468",3
-"5b977587fca8910023119de2","MainActivity",9,1,6,0,2,"19.974","2018-09-11 08:01:52.493",2
